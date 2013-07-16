@@ -10,3 +10,4 @@ class jwhois::params {
       fail("${::osfamily} is not supported")
     }
   }
+}
